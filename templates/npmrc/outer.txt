@@ -1,0 +1,6 @@
+proxy=http://rsahagun:Dianuki@2@proxy2.inti.com:3128
+https-proxy=http://rsahagun:Dianuki%402@proxy2.inti.com:3128/
+@bit:registry=https://node.bit.dev
+//node.bitsrc.io/:_authToken=cf2651ea-5233-440f-8663-947f8b955b00
+//node.bit.dev/:_authToken=cf2651ea-5233-440f-8663-947f8b955b00
+package-lock=false

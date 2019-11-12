@@ -1,0 +1,17 @@
+{
+  "name": "bit-companion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./bin/index.js",
+  "bin": {
+    "bit-companion": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "^0.8.3"
+  }
+}

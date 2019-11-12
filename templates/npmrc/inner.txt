@@ -1,0 +1,4 @@
+_auth="bnBtLWRlcGxveTpEM3AxeU45TQ=="
+email=arquitectura@notariado.org
+registry=http://neit2.inti.com/nexus/repository/npm-interno/
+package-lock=false
